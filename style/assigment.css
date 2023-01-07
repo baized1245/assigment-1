@@ -1,0 +1,117 @@
+
+/* section1 */
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-cover{
+  margin: 0%;
+text-align: right;
+padding: 30px;
+
+}
+.div1-cover{
+background-image: url(../images/banner/banner1.png)
+ 
+}
+.div1-title{
+    font-weight: 900;
+    font-size: 70px;
+    margin-right: 60px; 
+    
+}
+.div1-description{
+    font-size: 30px;
+    font-weight: 600;
+    margin-right: 50px;
+}
+#purpel{
+    font-weight: 900;
+    font-size: 40px;
+    color: purple;
+    border: 50px;
+    margin: 2%;
+    padding: 15px;
+    background-color: burlywood;
+}
+/* section-2 */
+.section-2{
+    display: flex;
+}
+.section-2-div1{
+    margin-left: 10%;
+}
+.section-2-div2{
+    margin-left: 10%;
+    margin-top: 4%;
+}
+#section2-title{
+    font-weight: 900;
+    font-size: 50px;
+}
+#section2-description{
+    font-weight: 500;
+    font-size: 35px;
+}
+#section2-li{
+    font-weight: 300;
+    font-size: 20px;
+}
+/* section-3 */
+.section3-title{
+    text-align: center;
+    font-size: 50px;
+}
+.section-3{
+    display: flex;
+    justify-content: space-around;
+     font-weight: 900;
+     font-size: 35px;
+}
+/* section4 */
+.section-4{
+    margin-bottom: 70px;
+    background-image: url(../images/gradient2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section4-title{
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 400px;
+}
+.section4-button{
+    margin-left: 500px;
+    font-weight: 900;
+    font-size: 40px;
+    background-color: burlywood;
+}
+/* Final section */
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    font-size: 30px;
+}
+.footer-div1{
+    font-size: 30px;
+    margin: 20px;
+    margin-right: 100px;
+    padding-right: 40px;
+}
+.footer-div2{
+    font-weight: 900;
+    font-size: 40px;
+    text-align: left;
+    padding-right: 200px;
+    padding-top: 60px;
+}
+.footer-button{
+    background-color: white;
+    font-weight: 900; font-size: 20px;
+    padding: 5px;margin: 10px; color: brown;
+}
+.button2{
+    font-weight: 900; font-size: 20px;
+    padding: 5px;margin: 10px; color: brown;
+}
